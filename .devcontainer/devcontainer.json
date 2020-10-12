@@ -1,0 +1,10 @@
+{
+	"name": "smartcitizen",
+	"dockerFile": "Dockerfile",
+	"appPort": 8888,
+	"context": "..",
+	"extensions": [
+		"ms-python.python"
+	],
+	"postCreateCommand": "pip install git+https://github.com/fablabbcn/smartcitizen-data-framework.git && pip install pandas numpy matplotlib sklearn"
+}

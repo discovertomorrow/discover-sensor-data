@@ -1,0 +1,5 @@
+# Urban Legends vs. Sensor Data
+
+Am späten Nachmittag ist die Geräuschkulisse in der Sanderau am größten. Zu Schulzeiten ist der Lärmpegel größer. Die Feinstaubwerte steigen außerhalb der Ferien. Sind dies nur Behauptungen oder Fakten? Sensordaten können helfen, derartige Fragen zu beantworten! Über ein Smart Citizen Kit werden Umwelt- und Umgebungsdaten wie Temperatur, Luftdruck etc. in der Sanderau aufgezeichnet. 
+
+Im Rahmen eines Vortrags auf der WueWW 2020 haben wir diese Daten genauer analysiert. Wir zeigen, welches Potential in Sensordaten steckt und wie dieses durch geeignete Analyse, Statistik und Machine Learning aufgedeckt werden kann. Sensordaten sind erst dann richtig viel wert, wenn sie sinnvoll analysiert werden. Wir geben Einblicke in Code, Methodik und die Technik, die dahinter stecken - und wie jeder selbst mitmachen kann!
